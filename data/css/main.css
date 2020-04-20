@@ -1,0 +1,13 @@
+.toolbox {
+    padding: 6px;
+    border-right: 1px solid #1B1B1B;
+}
+
+.main-container {
+    background-color: #1E1E1E;
+}
+
+.main-statusbar {
+    padding: 2px 6px;
+    border-top: 1px solid #1B1B1B;
+}
