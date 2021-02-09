@@ -1,6 +1,6 @@
 # Grapik Designer
 
-**Grapik Designer** is a *prototype* of a graphic design application built in Python, GTK3 and OpenGL that can helps to solve routine problems faced by graphic designers using automation.
+**Grapik Designer** is a *proof of concept* of a graphic design application built in Python, GTK3 and OpenGL that can helps to solve routine problems faced by graphic designers using automation.
 
 ## Background
 
